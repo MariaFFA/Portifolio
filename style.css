@@ -1,20 +1,21 @@
-html{
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap');
+html {
     background-color: #EDF2F4;
 }
 body{
     color: white;
 }
-header{
-    text-align: center;
-    font-family:'Times New Roman', Times, serif;
-    height: 10%;
-    background-color: #D90429;
+h2{
+    font-size: 35px;
 }
 h1{
     font-size: 50px;
 }
-h2{
-    font-size: 35px;
+header{
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    height: 10%;
+    background-color: #D90429;
 }
 main {
     margin: 0 0 0 15px;
