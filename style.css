@@ -1,5 +1,5 @@
 html{
-    background-color: antiquewhite;
+    background-color: #EDF2F4;
 }
 body{
     color: white;
@@ -8,6 +8,7 @@ header{
     text-align: center;
     font-family:'Times New Roman', Times, serif;
     height: 10%;
+    background-color: #D90429;
 }
 h1{
     font-size: 50px;
@@ -17,6 +18,7 @@ h2{
 }
 main {
     margin: 0 0 0 15px;
+    background-color: #EF233C;
 }
 footer {
     margin: 0 10px 0 0;
