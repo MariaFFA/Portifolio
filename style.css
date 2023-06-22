@@ -2,36 +2,32 @@
 html {
     background-color: #FFFFFF;
 }
-body{
-    color: #5603AD;
-    margin: 0;
-}
+
 h2{
-    font-size: 35px;
+    font-size: 200%;
     margin-top: 5px;
     color: #FFFFFF;
 }
 h1{
-    font-size: 50px;
+    font-size: 400%;
     margin-bottom: 5px;
     color: #FFFFFF;
 }
 header{
     text-align: center;
     font-family: 'Roboto Mono', monospace;
-    height: 10%;
     background-color: #5603AD;
     margin: 0;
 }
 main {
-    margin: 0 0 0 15px;
+    margin: 2%;
     background-color: #D8E2DC;
-    margin: 0;
     padding: 3%;
-    font-size: 100%;
+    font-size: 150%;
+    color: #5603AD;
 }
 footer {
-    margin: 0 ;
+    margin: 2%;
     display: flex;
     text-align: end;
     flex-direction: column;
@@ -39,14 +35,15 @@ footer {
     color: #5603AD;
     background-color: #D8E2DC;
     padding: 3%;
+    border-color: #5603AD;
+    font-size: 125%;
 }
 img{
     width:30px;
-    display: inline;
-
 }
 a{
     text-decoration: none;
+    size: 2%;
     color:#5603AD;
 }
 
@@ -54,4 +51,9 @@ a{
     background-color: #5603AD;
     margin: 0;
     color: #5603AD;
+}
+
+.CC-UFPE{
+    display: flex;
+    align-items: center;
 }
